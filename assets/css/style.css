@@ -1,0 +1,59 @@
+/*
+  * ألالوان المستخدمة في المشروع 
+    #f5f5f5 رمادي
+    #f4db7d  اصفر
+    #9daaf2 سماوي
+    ff6a3d  أحمر
+*/
+body {
+  font-family: "Tajawal", sans-serif;
+  background-color: rgb(221, 221, 221);
+}
+
+/*
+  * START
+    خصائص الكود
+*/
+.code {
+  background-color: #333;
+  color: #fff;
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 5px;
+  direction: ltr;
+  text-align: left;
+  background: linear-gradient(135deg, #2d292e 0, #333 100%) !important;
+}
+/*
+  * START
+    خصائص الالوان
+    inline block meta rmade
+*/
+.inline {
+  padding: 5px;
+  color: #fff;
+  border-radius: 5px;
+  background-color: #f4db7d;
+  transition: 0.5s ease;
+}
+
+.block {
+  padding: 5px;
+  color: #fff;
+  border-radius: 5px;
+  background-color: #9daaf2;
+}
+
+.meta {
+  padding: 5px;
+  color: #fff;
+  border-radius: 5px;
+  background-color: #ff6a3d;
+}
+.rmade {
+  padding: 5px;
+  color: #000;
+  border-radius: 5px;
+  background-color: #f5f5f5;
+  transition: 0.5s ease;
+}
